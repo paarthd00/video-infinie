@@ -1,0 +1,17 @@
+.App {
+  text-align     : center;
+  display        : flex;
+  justify-content: space-evenly;
+  max-width      : 1000px;
+  margin         : auto;
+  flex-direction : column;
+  height         : 500px;
+}
+
+#watermarkButton {
+  max-width: 500px;
+  margin   : auto;
+}
+input{
+  margin: auto;
+}
